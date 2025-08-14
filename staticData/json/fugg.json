@@ -1,0 +1,8 @@
+{
+  "title": "Available Fugglers",
+  "fruits": [
+    { "name": "Apple", "price": 3 },
+    { "name": "Banana", "price": 3 },
+    { "name": "Grapes", "price": 3 }
+  ]
+}
