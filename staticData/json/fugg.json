@@ -1,8 +1,27 @@
-{
-  "title": "Available Fugglers",
-  "fruits": [
-    { "name": "Apple", "price": 3 },
-    { "name": "Banana", "price": 3 },
-    { "name": "Grapes", "price": 3 }
-  ]
-}
+[
+  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 750, "quantity": 2, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 750, "quantity": 3, "color": "red" },
+  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 750, "quantity": 4, "color": "pink" },
+  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
+  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 3, "quantity": 3, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 3, "quantity": 3, "color": "red" },
+  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 3, "quantity": 3, "color": "pink" },
+  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 3, "quantity": 3, "color": "green" },
+  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 3, "quantity": 3, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 3, "quantity": 3, "color": "red" },
+  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 3, "quantity": 3, "color": "pink" },
+  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 3, "quantity": 3, "color": "green" },
+  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 3, "quantity": 3, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 3, "quantity": 3, "color": "red" },
+  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 3, "quantity": 3, "color": "pink" },
+  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 3, "quantity": 3, "color": "green" },
+  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 3, "quantity": 3, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 3, "quantity": 3, "color": "red" },
+  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 3, "quantity": 3, "color": "pink" },
+  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 3, "quantity": 3, "color": "green" },
+  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 3, "quantity": 3, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 3, "quantity": 3, "color": "red" },
+  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 3, "quantity": 3, "color": "pink" },
+  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 3, "quantity": 3, "color": "green" }
+]
+  
