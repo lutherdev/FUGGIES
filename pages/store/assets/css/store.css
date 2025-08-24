@@ -25,7 +25,7 @@
     flex-direction: row;
     gap: 20px;
     overflow-x: scroll;
-    
+    flex-wrap: nowrap;
 }
 
 /* Chrome, Edge, Safari */
@@ -54,6 +54,7 @@
 }
 
 .fuggBox {
+    flex-shrink: 0;
     border: 2px solid black;
     border-radius: 5px;
     background-color: rgb(176, 175, 211);
