@@ -3,16 +3,54 @@
     padding: 20px;
 }
 
+
 #fuggBoxes{
     width: 100%;
     height: 650px;
-    padding: 20px;
+    /*padding: 20px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 20px; */
     overflow-y: scroll;
-    scrollbar-width: thin;
+    scrollbar-width: thin;              
+    scrollbar-color: transparent transparent;
+}
+
+.fuggCategory{
+    width: 100%;
+    height: 350px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    overflow-x: scroll;
+    
+}
+
+/* Chrome, Edge, Safari */
+.fuggCategory::-webkit-scrollbar {
+  height: 8px;             /* horizontal scrollbar thickness */
+}
+
+.fuggCategory::-webkit-scrollbar-track {
+  background: #eee;        /* scrollbar track color */
+  border-radius: 10px;
+}
+
+.fuggCategory::-webkit-scrollbar-thumb {
+  background: #888;        /* draggable part */
+  border-radius: 10px;
+}
+
+.fuggCategory::-webkit-scrollbar-thumb:hover {
+  background: #555;        /* darker on hover */
+}
+
+/* Firefox */
+.fuggCategory {
+  scrollbar-width: thin;   /* "auto" or "thin" */
+  scrollbar-color: #888 transparent;
 }
 
 .fuggBox {

@@ -6,7 +6,7 @@
   { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
   { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
   { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
-  
+
   { "img": "assets/img/winged-bat.webp", "category": "FartFugg", "name": "Winged Bat", "price": 750, "quantity": 1, "color": "rgb(176, 175, 211)" },
 
   { "img": "assets/img/lord-long-ears.webp", "category": "NewFugg", "name": "Long Lord Ears", "price": 550, "quantity": 2, "color": "rgb(176, 175, 211)" },
@@ -45,5 +45,3 @@
   { "img": "assets/img/batman.webp", "category": "Keyrings", "name": "BATMAN", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"}
 
 ]
-  
-
