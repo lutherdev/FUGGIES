@@ -1,4 +1,4 @@
-fetch('../../../../staticData/json/fugg.json')
+fetch('/FUGGIES/staticData/json/fugg.json')
 .then(res => res.json())
 .then(products => {
     const container = document.getElementById('fuggBoxes');
