@@ -1,16 +1,25 @@
-fetch('/FUGGIES/staticData/json/fugg.json')
+fetch('/staticData/json/fugg.json')
 .then(res => res.json())
 .then(products => {
-    const container = document.getElementById('fuggBoxes');
-    container.innerHTML = ''; // clear existing
-    
     products.forEach(product => {
-    container.innerHTML += `
-        <div class="fuggBox" style="background-color: ${product.color}">
-        <div class="img"><img src="${product.img}" alt="FUGGIES"></div>
-        <div class="desc">${product.name} | ₱${product.price} | ${product.quantity} left</div>
-        </div>
-    `;
+        // find the right category container
+        const categoryDiv = document.querySelector(
+            `.fuggCategory[name="${product.category}"]`
+        );
+
+        if (categoryDiv) {
+            // create the box
+            const box = document.createElement('div');
+            box.classList.add('fuggBox');
+            box.style.backgroundColor = product.color;
+            box.innerHTML = `
+                <div class="img"><img src="${product.img}" alt="${product.name}"></div>
+                <div class="desc">${product.name} | ₱${product.price} | ${product.quantity} left</div>
+            `;
+            categoryDiv.appendChild(box);
+        } else {
+            console.warn(`No category container found for: ${product.category}`);
+        }
     });
 })
 .catch(err => console.error('Error loading products:', err));

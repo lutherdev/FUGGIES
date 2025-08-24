@@ -1,27 +1,49 @@
 [
-  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 750, "quantity": 2, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 750, "quantity": 3, "color": "red" },
-  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 750, "quantity": 4, "color": "pink" },
-  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
-  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 3, "quantity": 3, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 3, "quantity": 3, "color": "red" },
-  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 3, "quantity": 3, "color": "pink" },
-  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 3, "quantity": 3, "color": "green" },
-  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 3, "quantity": 3, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 3, "quantity": 3, "color": "red" },
-  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 3, "quantity": 3, "color": "pink" },
-  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 3, "quantity": 3, "color": "green" },
-  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 3, "quantity": 3, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 3, "quantity": 3, "color": "red" },
-  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 3, "quantity": 3, "color": "pink" },
-  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 3, "quantity": 3, "color": "green" },
-  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 3, "quantity": 3, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 3, "quantity": 3, "color": "red" },
-  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 3, "quantity": 3, "color": "pink" },
-  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 3, "quantity": 3, "color": "green" },
-  { "img": "assets/img/batman.webp", "name": "BATMAN", "price": 3, "quantity": 3, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/super.webp", "name": "SUPERMAN", "price": 3, "quantity": 3, "color": "red" },
-  { "img": "assets/img/harelyq.webp", "name": "HARLEQUINN", "price": 3, "quantity": 3, "color": "pink" },
-  { "img": "assets/img/joker.webp", "name": "JOKER", "price": 3, "quantity": 3, "color": "green" }
+  { "img": "assets/img/batman.webp", "category": "DC","name": "BATMAN", "price": 750, "quantity": 2, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/super.webp", "category": "DC", "name": "SUPERMAN", "price": 750, "quantity": 3, "color": "red" },
+  { "img": "assets/img/harelyq.webp", "category": "DC", "name": "HARLEQUINN", "price": 750, "quantity": 4, "color": "pink" },
+  { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
+  { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
+  { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
+  { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
+  
+  { "img": "assets/img/winged-bat.webp", "category": "FartFugg", "name": "Winged Bat", "price": 750, "quantity": 1, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/lord-long-ears.webp", "category": "NewFugg", "name": "Long Lord Ears", "price": 550, "quantity": 2, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/scaresome-square-bear.webp", "category": "NewFugg", "name": "Scaresome Square Bear", "price": 550, "quantity": 3, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/foolish-four-eyes.webp", "category": "NewFugg", "name": "Foolish Four Eyes", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/sir-nobbynuts.webp", "category": "NewFugg", "name": "Sir Nobbynuts", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/smiley.webp", "category": "NewFugg", "name": "Smiley O Riley", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/shameless.webp", "category": "NewFugg", "name": "Shameless Goof", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/greedy.webp", "category": "NewFugg", "name": "Greedy Grinner", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/OOGAH.webp", "category": "HairyFugg", "name": "OOGAH BOOGAH", "price": 650, "quantity": 5, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/screech.webp", "category": "HairyFugg", "name": "SCREECH", "price": 650, "quantity": 3, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/sasquoosh.webp", "category": "HairyFugg", "name": "SASQUOOSH", "price": 650, "quantity": 1, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/elf.webp", "category": "FestiveFugg", "name": "ELF", "price": 400, "quantity": 4, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/santa.webp", "category": "FestiveFugg", "name": "SANTA", "price": 400, "quantity": 1, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/gnawing.webp", "category": "GoldFugg", "name": "GNAWING TERROR", "price": 600, "quantity": 2, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/grump.webp", "category": "GoldFugg", "name": "GRUMPY GRUMPS", "price": 600, "quantity": 2, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/grin.webp", "category": "GoldFugg", "name": "GRIN GRIN", "price": 600, "quantity": 2, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/nightmare.webp", "category": "GoldFugg", "name": "TEDDY BEAR NIGHTMARE", "price": 600, "quantity": 1, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/stink.webp", "category": "FamilyFugg", "name": "STINKFACE", "price": 700, "quantity": 2, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/stripe.webp", "category": "Gremlins", "name": "STRIPE", "price": 900, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/gizmo.webp", "category": "Gremlins", "name": "GIZMO", "price": 900, "quantity": 1, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/batman.webp", "category": "MiniRascal", "name": "BATMAN", "price": 900, "quantity": 3, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/frodo.png", "category": "LOTR", "name": "FRODO", "price": 700, "quantity": 2, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/REEK.webp", "category": "Glow", "name": "REEK - O", "price": 600, "quantity": 1, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/love.webp", "category": "Love", "name": "ANNOYED ALIEN", "price": 900, "quantity": 2, "color": "rgb(176, 175, 211)" },
+
+  { "img": "assets/img/batman.webp", "category": "Keyrings", "name": "BATMAN", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"}
+
 ]
   
+
