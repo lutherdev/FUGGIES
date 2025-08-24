@@ -6,13 +6,13 @@
 
   { "img": "assets/img/winged-bat.webp", "category": "FartFugg", "name": "Winged Bat", "price": 750, "quantity": 1, "color": "rgb(176, 175, 211)" },
 
-  { "img": "assets/img/lord-long-ears.webp", "category": "NewFugg", "name": "Long Lord Ears", "price": 550, "quantity": 2, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/scaresome-square-bear.webp", "category": "NewFugg", "name": "Scaresome Square Bear", "price": 550, "quantity": 3, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/foolish-four-eyes.webp", "category": "NewFugg", "name": "Foolish Four Eyes", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/sir-nobbynuts.webp", "category": "NewFugg", "name": "Sir Nobbynuts", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/smiley.webp", "category": "NewFugg", "name": "Smiley O Riley", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/shameless.webp", "category": "NewFugg", "name": "Shameless Goof", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/greedy.webp", "category": "NewFugg", "name": "Greedy Grinner", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/lord-long-ears.webp", "category": "NewFugg", "name": "LONG LORD EARS", "price": 550, "quantity": 2, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/scaresome-square-bear.webp", "category": "NewFugg", "name": "SCARESOME SQUARE BEAR", "price": 550, "quantity": 3, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/foolish-four-eyes.webp", "category": "NewFugg", "name": "FOOLISH FOUR EYES", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/sir-nobbynuts.webp", "category": "NewFugg", "name": "SIR NOBBYNUTS", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/smiley.webp", "category": "NewFugg", "name": "SMILEY O RILEY", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/shameless.webp", "category": "NewFugg", "name": "SHAMELESS GOOF", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/greedy.webp", "category": "NewFugg", "name": "GREEDY GRINNER", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
 
   { "img": "assets/img/OOGAH.webp", "category": "HairyFugg", "name": "OOGAH BOOGAH", "price": 650, "quantity": 5, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/screech.webp", "category": "HairyFugg", "name": "SCREECH", "price": 650, "quantity": 3, "color": "rgb(176, 175, 211)" },
