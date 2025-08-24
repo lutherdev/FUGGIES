@@ -3,9 +3,6 @@
   { "img": "assets/img/super.webp", "category": "DC", "name": "SUPERMAN", "price": 750, "quantity": 3, "color": "red" },
   { "img": "assets/img/harelyq.webp", "category": "DC", "name": "HARLEQUINN", "price": 750, "quantity": 4, "color": "pink" },
   { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
-  { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
-  { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
-  { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 2, "color": "green" },
 
   { "img": "assets/img/winged-bat.webp", "category": "FartFugg", "name": "Winged Bat", "price": 750, "quantity": 1, "color": "rgb(176, 175, 211)" },
 
