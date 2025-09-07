@@ -40,6 +40,16 @@
 
   { "img": "assets/img/love.webp", "category": "Love", "name": "ANNOYED ALIEN", "price": 900, "quantity": 2, "color": "rgb(176, 175, 211)" },
 
-  { "img": "assets/img/batman.webp", "category": "Keyrings", "name": "BATMAN", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"}
-
+  { "img": "assets/img/key-gaptooth-mcgoo.webp", "category": "Keyrings", "name": "GAPTOOTH MCGOO", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-wide-eyed-weirdo.webp", "category": "Keyrings", "name": "Wide Eyed Weirdo", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-rabid-rabbit.webp", "category": "Keyrings", "name": "RABID RABBIT", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-squidge.webp", "category": "Keyrings", "name": "SQUIDGE", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-annoyed-alien.webp", "category": "Keyrings", "name": "ANNOYED ALIEN", "price": 450, "quantity": 4, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-annoyed-alien2.webp", "category": "Keyrings", "name": "ANNOYED ALIEN", "price": 450, "quantity": 5, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-grin-grin.webp", "category": "Keyrings", "name": "GRIN GRIN", "price": 450, "quantity": 2, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-count-underoo-mcgoo.webp", "category": "Keyrings", "name": "COUNT UNDEROO MCGOO", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-rabid-rabbit2.webp", "category": "Keyrings", "name": "RABID RABBIT", "price": 450, "quantity": 1, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-rabid-rabbit2.webp", "category": "Keyrings", "name": "RABID RABBIT(chase me button)", "price": 550, "quantity": 1, "color": "rgb(228, 192, 94)"},
+  { "img": "assets/img/key-grin-grin.webp", "category": "Keyrings", "name": "GRIN GRIN(chase me button)", "price": 550, "quantity": 1, "color": "rgb(228, 192, 94)"}
+  
 ]
