@@ -4,7 +4,7 @@
   { "img": "assets/img/harelyq.webp", "category": "DC", "name": "HARLEQUINN", "price": 750, "quantity": 4, "color": "pink" },
   { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 1, "color": "green" },
 
-  { "img": "assets/img/winged-bat.webp", "category": "FartFugg", "name": "Winged Bat", "price": 750, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/winged-bat.webp", "category": "FartFugg", "name": "Winged Bat", "price": 1800, "quantity": 1, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/gaptooth.webp", "category": "FartFugg", "name": "GAPTOOTH MCGOO", "price": 750, "quantity": 2, "color": "rgb(176, 175, 211)" },
 
   { "img": "assets/img/lord-long-ears.webp", "category": "NewFugg", "name": "LONG LORD EARS", "price": 550, "quantity": 2, "color": "rgb(176, 175, 211)" },
