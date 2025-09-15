@@ -7,7 +7,7 @@
   { "img": "assets/img/winged-bat.webp", "category": "FartFugg", "name": "Winged Bat", "price": 1800, "quantity": 1, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/gaptooth.webp", "category": "FartFugg", "name": "GAPTOOTH MCGOO", "price": 750, "quantity": 2, "color": "rgb(176, 175, 211)" },
 
-  { "img": "assets/img/lord-long-ears.webp", "category": "NewFugg", "name": "LONG LORD EARS", "price": 550, "quantity": 2, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/lord-long-ears.webp", "category": "NewFugg", "name": "LONG LORD EARS", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/scaresome-square-bear.webp", "category": "NewFugg", "name": "SCARESOME SQUARE BEAR", "price": 550, "quantity": 3, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/foolish-four-eyes.webp", "category": "NewFugg", "name": "FOOLISH FOUR EYES", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/sir-nobbynuts.webp", "category": "NewFugg", "name": "SIR NOBBYNUTS", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
