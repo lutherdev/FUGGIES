@@ -11,7 +11,7 @@ fetch('/FUGGIES/staticData/json/fugg.json')
             // create the box
             const box = document.createElement('div');
             box.classList.add('fuggBox');
-            box.style.backgroundColor = product.color;
+            //box.style.backgroundColor = product.color;
             box.innerHTML = `
                 <div class="img"><img src="${product.img}" alt="${product.name}"></div>
                 <div class="desc">${product.name} | ₱${product.price} | ${product.quantity} left</div>
