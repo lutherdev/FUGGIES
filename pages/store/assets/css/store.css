@@ -71,6 +71,7 @@
     padding: 20px;
     margin-top: 55px;
     margin-bottom: 55px;
+    min-width: 24%;
     flex: 1;
 }
 
