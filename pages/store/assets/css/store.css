@@ -23,7 +23,7 @@
 
 .fuggCategory, .fuggCategoryKey{
     width: 100%;
-    height: 350px;
+    height: auto;
     padding: 20px;
     display: flex;
     flex-direction: row;
