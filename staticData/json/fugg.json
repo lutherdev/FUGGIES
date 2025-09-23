@@ -1,4 +1,9 @@
 [
+  { "img": "assets/img/rabid-rabbit.png", "category": "buttUgly","name": "RABID RABBIT", "price": 1350, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/mr-buttons.png", "category": "buttUgly", "name": "MR BUTTONS", "price": 1350, "quantity": 1, "color": "red" },
+  { "img": "assets/img/yawper.png", "category": "buttUgly", "name": "YAWPER", "price": 1350, "quantity": 1, "color": "pink" },
+  { "img": "assets/img/tootin.png", "category": "buttUgly", "name": "UNCLADIMIR TOOTIN", "price": 1350, "quantity": 1, "color": "green" },
+
   { "img": "assets/img/batman.webp", "category": "DC","name": "BATMAN", "price": 750, "quantity": 1, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/super.webp", "category": "DC", "name": "SUPERMAN", "price": 750, "quantity": 3, "color": "red" },
   { "img": "assets/img/harelyq.webp", "category": "DC", "name": "HARLEQUINN", "price": 750, "quantity": 4, "color": "pink" },
@@ -32,7 +37,7 @@
   { "img": "assets/img/stripe.webp", "category": "Gremlins", "name": "STRIPE", "price": 900, "quantity": 1, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/gizmo.webp", "category": "Gremlins", "name": "GIZMO", "price": 900, "quantity": 1, "color": "rgb(176, 175, 211)" },
 
-  { "img": "assets/img/batman.webp", "category": "MiniRascal", "name": "BATMAN", "price": 900, "quantity": 3, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/annoyed-alien.png", "category": "MiniRascal", "name": "ANNOYED ALIEN", "price": 750, "quantity": 1, "color": "rgb(176, 175, 211)" },
 
   { "img": "assets/img/frodo.png", "category": "LOTR", "name": "FRODO", "price": 700, "quantity": 2, "color": "rgb(176, 175, 211)" },
 
