@@ -37,7 +37,9 @@
   { "img": "assets/img/stripe.webp", "category": "Gremlins", "name": "STRIPE", "price": 900, "quantity": 1, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/gizmo.webp", "category": "Gremlins", "name": "GIZMO", "price": 900, "quantity": 1, "color": "rgb(176, 175, 211)" },
 
-  { "img": "assets/img/annoyed-alien.png", "category": "MiniRascal", "name": "ANNOYED ALIEN", "price": 750, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/annoyed-alien.png", "category": "MiniRascal", "name": "ANNOYED ALIEN", "price": 900, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/mini-squidge.png", "category": "MiniRascal", "name": "SQUIDGE", "price": 900, "quantity": 1, "color": "rgb(176, 175, 211)" },
+
 
   { "img": "assets/img/frodo.png", "category": "LOTR", "name": "FRODO", "price": 700, "quantity": 2, "color": "rgb(176, 175, 211)" },
 
