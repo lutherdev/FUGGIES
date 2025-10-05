@@ -1,4 +1,12 @@
 [
+  { "img": "assets/img/gaptooth-weirdo.png", "category": "misfit","name": "Misfit #1", "price": 650, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/misfit2.png", "category": "misfit", "name": "Misfit #2", "price": 650, "quantity": 1, "color": "red" },
+  { "img": "assets/img/misfit3.png", "category": "misfit", "name": "Misfit #3", "price": 650, "quantity": 1, "color": "red" },
+  { "img": "assets/img/misfit4.png", "category": "misfit", "name": "Misfit #4", "price": 650, "quantity": 1, "color": "red" },
+  { "img": "assets/img/misfit5.png", "category": "misfit", "name": "Misfit #5", "price": 650, "quantity": 1, "color": "red" },
+  { "img": "assets/img/misfit6.png", "category": "misfit", "name": "Misfit #6", "price": 650, "quantity": 1, "color": "red" },
+  { "img": "assets/img/misfit7.png", "category": "misfit", "name": "Misfit #7", "price": 650, "quantity": 1, "color": "red" },
+
   { "img": "assets/img/rabid-rabbit.png", "category": "buttUgly","name": "RABID RABBIT", "price": 1350, "quantity": 1, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/mr-buttons.png", "category": "buttUgly", "name": "MR BUTTONS", "price": 1350, "quantity": 1, "color": "red" },
   { "img": "assets/img/yawper.png", "category": "buttUgly", "name": "YAWPER", "price": 1350, "quantity": 1, "color": "pink" },
