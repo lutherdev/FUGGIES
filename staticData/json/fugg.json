@@ -15,10 +15,10 @@
   { "img": "assets/img/batman.webp", "category": "DC","name": "BATMAN", "price": 750, "quantity": 1, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/super.webp", "category": "DC", "name": "SUPERMAN", "price": 750, "quantity": 3, "color": "red" },
   { "img": "assets/img/harelyq.webp", "category": "DC", "name": "HARLEQUINN", "price": 750, "quantity": 4, "color": "pink" },
-  { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 1, "color": "green" },
+  { "img": "assets/img/joker.webp", "category": "DC", "name": "JOKER", "price": 750, "quantity": 0, "color": "green" },
 
   { "img": "assets/img/winged-bat.webp", "category": "FartFugg", "name": "Winged Bat", "price": 1800, "quantity": 1, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/gaptooth.webp", "category": "FartFugg", "name": "GAPTOOTH MCGOO", "price": 750, "quantity": 2, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/gaptooth.webp", "category": "FartFugg", "name": "GAPTOOTH MCGOO", "price": 750, "quantity": 1, "color": "rgb(176, 175, 211)" },
 
   { "img": "assets/img/lord-long-ears.webp", "category": "NewFugg", "name": "LONG LORD EARS", "price": 550, "quantity": 1, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/scaresome-square-bear.webp", "category": "NewFugg", "name": "SCARESOME SQUARE BEAR", "price": 550, "quantity": 3, "color": "rgb(176, 175, 211)" },
@@ -30,7 +30,7 @@
 
   { "img": "assets/img/OOGAH.webp", "category": "HairyFugg", "name": "OOGAH BOOGAH", "price": 600, "quantity": 5, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/screech.webp", "category": "HairyFugg", "name": "SCREECH", "price": 600, "quantity": 3, "color": "rgb(176, 175, 211)" },
-  { "img": "assets/img/sasquoosh.webp", "category": "HairyFugg", "name": "SASQUOOSH", "price": 600, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/sasquoosh.webp", "category": "HairyFugg", "name": "SASQUOOSH", "price": 600, "quantity": 0, "color": "rgb(176, 175, 211)" },
 
   { "img": "assets/img/elf.webp", "category": "FestiveFugg", "name": "ELF", "price": 400, "quantity": 4, "color": "rgb(176, 175, 211)" },
   { "img": "assets/img/santa.webp", "category": "FestiveFugg", "name": "SANTA", "price": 400, "quantity": 1, "color": "rgb(176, 175, 211)" },
@@ -51,18 +51,18 @@
 
   { "img": "assets/img/frodo.png", "category": "LOTR", "name": "FRODO", "price": 700, "quantity": 2, "color": "rgb(176, 175, 211)" },
 
-  { "img": "assets/img/REEK.webp", "category": "Glow", "name": "REEK - O", "price": 600, "quantity": 1, "color": "rgb(176, 175, 211)" },
+  { "img": "assets/img/REEK.webp", "category": "Glow", "name": "REEK - O", "price": 600, "quantity": 0, "color": "rgb(176, 175, 211)" },
 
   { "img": "assets/img/love.webp", "category": "Love", "name": "ANNOYED ALIEN", "price": 900, "quantity": 2, "color": "rgb(176, 175, 211)" },
 
   { "img": "assets/img/key-gaptooth-mcgoo.webp", "category": "Keyrings", "name": "GAPTOOTH MCGOO", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"},
-  { "img": "assets/img/key-wide-eyed-weirdo.webp", "category": "Keyrings", "name": "Wide Eyed Weirdo", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-wide-eyed-weirdo.webp", "category": "Keyrings", "name": "Wide Eyed Weirdo", "price": 450, "quantity": 2, "color": "rgb(176, 175, 211)"},
   { "img": "assets/img/key-rabid-rabbit.webp", "category": "Keyrings", "name": "RABID RABBIT", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"},
   { "img": "assets/img/key-squidge.webp", "category": "Keyrings", "name": "SQUIDGE", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"},
   { "img": "assets/img/key-annoyed-alien.webp", "category": "Keyrings", "name": "ANNOYED ALIEN", "price": 450, "quantity": 4, "color": "rgb(176, 175, 211)"},
   { "img": "assets/img/key-annoyed-alien2.webp", "category": "Keyrings", "name": "ANNOYED ALIEN", "price": 450, "quantity": 5, "color": "rgb(176, 175, 211)"},
   { "img": "assets/img/key-grin-grin.webp", "category": "Keyrings", "name": "GRIN GRIN", "price": 450, "quantity": 2, "color": "rgb(176, 175, 211)"},
-  { "img": "assets/img/key-count-underoo-mcgoo.webp", "category": "Keyrings", "name": "COUNT UNDEROO MCGOO", "price": 450, "quantity": 3, "color": "rgb(176, 175, 211)"},
+  { "img": "assets/img/key-count-underoo-mcgoo.webp", "category": "Keyrings", "name": "COUNT UNDEROO MCGOO", "price": 450, "quantity": 2, "color": "rgb(176, 175, 211)"},
   { "img": "assets/img/key-rabid-rabbit2.webp", "category": "Keyrings", "name": "RABID RABBIT", "price": 450, "quantity": 1, "color": "rgb(176, 175, 211)"},
   { "img": "assets/img/key-rabid-rabbit2.webp", "category": "Keyrings", "name": "RABID RABBIT(chase me button)", "price": 550, "quantity": 1, "color": "rgb(228, 192, 94)"},
   { "img": "assets/img/key-grin-grin.webp", "category": "Keyrings", "name": "GRIN GRIN(chase me button)", "price": 550, "quantity": 1, "color": "rgb(228, 192, 94)"}
